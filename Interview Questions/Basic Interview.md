@@ -1,5 +1,5 @@
-## H2 What is `SQL` and how is it used?
-------
+What is `SQL` and how is it used?
+ 
 What are the different types of SQL commands?
 What is a primary key and why is it important?
 What is a foreign key and how is it used?
