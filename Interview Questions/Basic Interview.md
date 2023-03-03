@@ -14,6 +14,12 @@ There are five types of SQL commands:
 ![SQL Commands](https://static.javatpoint.com/dbms/images/dbms-sql-command.png "SQL Commands")
 
 #### What is a primary key and why is it important?
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+``` 
+
 #### What is a foreign key and how is it used?
 #### What is a subquery in SQL?
 #### What is normalization and why is it important?
