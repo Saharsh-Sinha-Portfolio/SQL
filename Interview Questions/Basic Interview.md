@@ -1,6 +1,6 @@
 # SQL Questions
 
-### What is `SQL` and how is it used?
+#### What is SQL and how is it used?
 SQL Stands for Structured Query Language and is used to obtain and report/present data from various tables.
 
 What are the different types of SQL commands?
