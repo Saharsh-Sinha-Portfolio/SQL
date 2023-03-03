@@ -5,11 +5,11 @@ SQL Stands for Structured Query Language and is used to fetch and report data fr
 
 #### What are the different types of SQL commands?
 There are five types of SQL commands: 
-DDL : Data Definition Language (changes the structure of the table like creating a table, deleting a table, altering a table, etc.)
-DML : Data Manipulation Language (
-DCL : Data 
-TCL : 
-DQL : 
+* DDL : Data Definition Language (changes the structure of the table like creating a table, deleting a table, altering a table, etc.)
+* DML : Data Manipulation Language (
+* DCL : Data 
+* TCL : 
+* DQL : 
 
 ![SQL Commands](https://static.javatpoint.com/dbms/images/dbms-sql-command.png "SQL Commands")
 
