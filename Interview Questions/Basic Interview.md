@@ -4,10 +4,10 @@
 ------
 SQL Stands for Structured Query Language and is used to obtain and report/present data from various tables. The specific syntax followed is called SQL query as it queries the columns in a database to get specific information.
 
-What are the different types of SQL commands?
-What is a primary key and why is it important?
-What is a foreign key and how is it used?
-What is a subquery in SQL?
+#### What are the different types of SQL commands?
+#### What is a primary key and why is it important?
+#### What is a foreign key and how is it used?
+#### What is a subquery in SQL?
 What is normalization and why is it important?
 What is a self-join in SQL and how is it performed?
 What is the difference between an inner join and a left join?
