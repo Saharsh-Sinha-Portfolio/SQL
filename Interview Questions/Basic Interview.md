@@ -1,9 +1,12 @@
 # SQL Questions
 
 #### What is SQL and how is it used?
-SQL Stands for Structured Query Language and is used to fetch and report data from various tables in a database. The syntax followed is called an SQL query as it queries the columns in a database.
+SQL Stands for Structured Query Language and is used to fetch and report data from tables in a database. The syntax followed is called an SQL query as it queries the columns in a database.
 
 #### What are the different types of SQL commands?
+There are five types of SQL commands: DDL, DML, DCL, TCL, and DQL.
+![SQL Commands](https://static.javatpoint.com/dbms/images/dbms-sql-command.png "SQL Commands")
+
 #### What is a primary key and why is it important?
 #### What is a foreign key and how is it used?
 #### What is a subquery in SQL?
