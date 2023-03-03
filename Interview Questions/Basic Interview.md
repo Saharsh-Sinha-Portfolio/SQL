@@ -1,7 +1,7 @@
 # SQL Questions
 
 #### What is SQL and how is it used?
-SQL Stands for Structured Query Language and is used to obtain and report/present data from various tables.
+SQL Stands for Structured Query Language and is used to obtain and report/present data from various tables. The specific syntax followed is called SQL query as it queries the columns in a database to get specific information.
 
 What are the different types of SQL commands?
 What is a primary key and why is it important?
