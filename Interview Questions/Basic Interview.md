@@ -47,3 +47,4 @@ SQL Stands for Structured Query Language and is used to obtain and report/presen
 #### How do you write a query to select top N records from a table?
 #### What is a database transaction and why is it important?
 #### What is the difference between a rollback and a commit in SQL?
+
